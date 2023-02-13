@@ -3,10 +3,20 @@
 }
 .image {
     display: flex;
-    width: 500px;
-    height: 500px;
-    padding: 10px;
-    margin: 10px;
+    width: 300px;
+    height: 300px;
+    padding-bottom: 100px;
+}
+.img-1 {
+    width: 300px;
+    height: 300px;
+}
+.img-2 {
+    width: 300px;
+    height: 300px;
+}
+.box2 {
+    margin-left: 20px;
 }
 .image .img-1 {
     margin-right: 10px;
@@ -15,4 +25,7 @@
     background: #f24438;
     color: white;
     padding: 0 1.6rem;
+}
+.button {
+    margin-left: 10px;
 }
